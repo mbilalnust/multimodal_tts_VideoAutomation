@@ -19,9 +19,6 @@ temp_assets/
 # Ignore text files
 *.txt
 
-# Retain only Python files
-*.py
-
 
 *.jpg 
 *.srt
