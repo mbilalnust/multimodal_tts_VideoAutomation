@@ -1,0 +1,27 @@
+# Ignore the virtual environment directory
+venv/
+temp_assets/
+
+# Ignore audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+
+# Ignore text files
+*.txt
+
+# Retain only Python files
+*.py
+
+
+*.jpg 
+*.srt
